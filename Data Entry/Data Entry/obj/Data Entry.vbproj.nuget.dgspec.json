@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ROCO\\source\\repos\\Data Entry\\Data Entry\\Data Entry.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ROCO\\source\\repos\\Data Entry\\Data Entry\\Data Entry.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROCO\\source\\repos\\Data Entry\\Data Entry\\Data Entry.vbproj",
+        "projectName": "Data Entry",
+        "projectPath": "C:\\Users\\ROCO\\source\\repos\\Data Entry\\Data Entry\\Data Entry.vbproj",
+        "packagesPath": "C:\\Users\\ROCO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROCO\\source\\repos\\Data Entry\\Data Entry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROCO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

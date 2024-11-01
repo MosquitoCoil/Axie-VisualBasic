@@ -1,0 +1,30 @@
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Data Entry.exe
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Data Entry.deps.json
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Data Entry.runtimeconfig.json
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Data Entry.runtimeconfig.dev.json
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Data Entry.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\ref\Data Entry.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Data Entry.pdb
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data_Entry.Form1.resources
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.vbproj.GenerateResource.cache
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.AssemblyInfoInputs.cache
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.AssemblyInfo.vb
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.vbproj.CoreCompileInputs.cache
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\ref\Data Entry.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.pdb
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.genruntimeconfig.cache
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data_Entry.Form2.resources
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.vbproj.CopyComplete
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\bin\Debug\net5.0-windows\MySql.Data.xml
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data Entry.vbproj.AssemblyReference.cache
+C:\Users\ROCO\source\repos\Data Entry\Data Entry\obj\Debug\net5.0-windows\Data_Entry.Resources.resources
